@@ -1,0 +1,2 @@
+# cursoPrcticoPlatzi
+curso de platzi :,)
